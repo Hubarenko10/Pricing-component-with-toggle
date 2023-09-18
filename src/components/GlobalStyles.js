@@ -28,6 +28,7 @@ img{
 }
 body {
   margin: 0;
+  background: #F7F7FE;
 }
 `;
 
