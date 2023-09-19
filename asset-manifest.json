@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/react-homework-template/static/js/main.acf48de9.js",
-    "static/media/up.svg": "/react-homework-template/static/media/up.aa340bc1616f1b92b051b9d54d1ffdfb.svg",
-    "static/media/down.svg": "/react-homework-template/static/media/down.0b55a829ff206e67d16ff04702356581.svg",
-    "index.html": "/react-homework-template/index.html",
-    "main.acf48de9.js.map": "/react-homework-template/static/js/main.acf48de9.js.map"
+    "main.js": "/Pricing-component-with-toggle/static/js/main.cfd6df02.js",
+    "static/media/up.svg": "/Pricing-component-with-toggle/static/media/up.aa340bc1616f1b92b051b9d54d1ffdfb.svg",
+    "static/media/down.svg": "/Pricing-component-with-toggle/static/media/down.0b55a829ff206e67d16ff04702356581.svg",
+    "index.html": "/Pricing-component-with-toggle/index.html",
+    "main.cfd6df02.js.map": "/Pricing-component-with-toggle/static/js/main.cfd6df02.js.map"
   },
   "entrypoints": [
-    "static/js/main.acf48de9.js"
+    "static/js/main.cfd6df02.js"
   ]
 }
